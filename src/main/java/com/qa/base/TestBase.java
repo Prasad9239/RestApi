@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class TestBase {
+	
 	public static Properties props;
 	
 	public static int RESPONSE_STATUS_CODE_200=200;
